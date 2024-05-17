@@ -1,0 +1,14 @@
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\bin\Debug\net6.0\MyFirsApp.exe
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\bin\Debug\net6.0\MyFirsApp.deps.json
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\bin\Debug\net6.0\MyFirsApp.runtimeconfig.json
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\bin\Debug\net6.0\MyFirsApp.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\bin\Debug\net6.0\MyFirsApp.pdb
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\MyFirsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\MyFirsApp.AssemblyInfoInputs.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\MyFirsApp.AssemblyInfo.cs
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\MyFirsApp.csproj.CoreCompileInputs.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\MyFirsApp.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\refint\MyFirsApp.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\MyFirsApp.pdb
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\MyFirsApp.genruntimeconfig.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\MyFirsApp\MyFirsApp\obj\Debug\net6.0\ref\MyFirsApp.dll
